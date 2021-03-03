@@ -1,0 +1,40 @@
+PODS:
+  - Flutter (1.0.0)
+  - launch_review (0.0.1):
+    - Flutter
+  - open_appstore (0.0.1):
+    - Flutter
+  - store_redirect (0.0.1):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - launch_review (from `.symlinks/plugins/launch_review/ios`)
+  - open_appstore (from `.symlinks/plugins/open_appstore/ios`)
+  - store_redirect (from `.symlinks/plugins/store_redirect/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  launch_review:
+    :path: ".symlinks/plugins/launch_review/ios"
+  open_appstore:
+    :path: ".symlinks/plugins/open_appstore/ios"
+  store_redirect:
+    :path: ".symlinks/plugins/store_redirect/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  launch_review: 75d5a956ba8eaa493e9c9d4bf4c05e505e8d5ed0
+  open_appstore: 4eddfae38848002fdde8d42e1734d16cb34439de
+  store_redirect: 2977747cf81689a39bd62c248c2deacb7a0d131e
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
